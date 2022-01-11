@@ -1,2 +1,2 @@
 # MonxunDocker
-Docker container for hosting the moxuncode.com site
+Docker container for hosting the Django ML Template
